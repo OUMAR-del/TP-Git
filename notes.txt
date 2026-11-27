@@ -1,0 +1,3 @@
+Je découvre Git.
+Git permet de suivre les modifications.
+Je crée mon premier dépôt local.
