@@ -1,0 +1,47 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+header {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+main {
+    padding: 30px;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+#temoignages {
+    margin-top: 30px;
+    padding: 30px;
+    text-align: center;
+}
+
+.temoignage {
+    background-color: white;
+    padding: 15px;
+    margin: 15px auto;
+    max-width: 500px;
+    border-left: 5px solid darkblue;
+    border-radius: 8px;
+}
